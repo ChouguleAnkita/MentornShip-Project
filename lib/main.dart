@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:instagram/AuthorizationPage1.dart';
+// import 'package:instagram/Auth/AuthorizationPage1.dart';
 
 void main() {
   runApp(const MainApp());
